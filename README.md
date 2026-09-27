@@ -222,23 +222,13 @@ The assignment requires a public GitHub repository named **`event-board`**, alon
 ## GitHub Repository
 
 Repository name:
-
-```text
 event-board
-```
 
 Repository URL:
-
-```text
-[ADD YOUR FINAL PUBLIC GITHUB REPOSITORY URL]
-```
+https://github.com/jannatverma/event-board
 
 If GitHub Pages is enabled:
-
-```text
-[ADD YOUR GITHUB PAGES URL]
-```
-
+https://jannatverma.github.io/event-board/
 ## Submission Notes
 
 Before submission, verify that the repository contains:
